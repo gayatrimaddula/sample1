@@ -1,0 +1,103 @@
+{
+"1":{
+    "AWS Review":{
+       "issue_details":{"project": {"key": "TEST"},
+    			"summary": "Access Reviews",
+    			"description": "check monthly access reviews",
+    			"issuetype": {"name": "Task"}
+                        },
+       "issue_asignee":"admin"
+    },
+    "Lastpass Review":{
+           "issue_details":{"project": {"key": "TEST"},
+    			"summary": "Lastpass review",
+    			"description": "check lastpass assessment",
+    			"issuetype": {"name": "Task"}
+                           },
+       "issue_asignee":"admin"
+                      },
+    "Google Review":{
+            "issue_details":{"project": {"key": "TEST"},
+    			"summary": "Risk Assessment",
+    			"description": "check risk assessment",
+    			"issuetype": {"name": "Task"}
+                           },
+       "issue_asignee":"admin"
+                    }
+},
+"12":{
+      "Risk Assesment":{
+           "issue_details":{"project": {"key": "TEST"},
+    			"summary": "Risk Assessment",
+    			"description": "check risk assessment",
+    			"issuetype": {"name": "Task"}
+                           },
+       "issue_asignee":"admin"
+                       },
+      "SAT":{
+              "issue_details":{"project": {"key": "TEST"},
+    			"summary": "SAT",
+    			"description": "check SAT",
+    			"issuetype": {"name": "Task"}
+                              },
+       "issue_asignee":"admin"
+            },
+      "Disaster Recovery Testing":{
+                   "issue_details":{"project": {"key": "TEST"},
+    			"summary": "Disaster recovery testing",
+    			"description": "check disaster recovery testing",
+    			"issuetype": {"name": "Task"}
+                                   },
+       "issue_asignee":"admin"
+                                   },
+      "ISP":{
+                  "issue_details":{"project": {"key": "TEST"},
+    			"summary": "ISP Review",
+    			"description": "Check in ISP",
+    			"issuetype": {"name": "Task"}
+                                  },
+       "issue_asignee":"admin"
+                   },
+      "SOC2 Reports":{
+                   "issue_details":{"project": {"key": "TEST"},
+    			"summary": "SOC2 reports review",
+    			"description": "check 3rd part SOC2 reports",
+    			"issuetype": {"name": "Task"}
+                                   },
+       "issue_asignee":"admin",
+              "AWS review":{
+                     "issue_details":{"project": {"key": "TEST"},
+    			"summary": "SOC2 reports review",
+    			"description": "check 3rd part SOC2 reports",
+    			"issuetype": {"name": "Task"}
+                           }
+                         },
+              "last pass review":{
+                         "issue_details":{"project": {"key": "TEST"},
+    			"summary": "SOC2 reports review",
+    			"description": "check 3rd part SOC2 reports",
+    			"issuetype": {"name": "Task"}
+                                 }
+                     }
+               },	
+
+    "IRP Review":{
+                 "issue_details":{"project": {"key": "TEST"},
+    			"summary": "New issue from IRP review",
+    			"description": "check ISP",
+    			"issuetype": {"name": "Task"}
+                              },
+       "issue_asignee":"admin"
+                    }
+ },
+"6":{
+              "control review and update":{
+                      "issue_details":{"project": {"key": "TEST"},
+    			"summary": "Control Review and Update",
+    			"description": "check control and review and updates",
+    			"issuetype": {"name": "Task"}
+                              },
+       "issue_asignee":"admin"
+              }
+}
+}
